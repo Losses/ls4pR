@@ -1,0 +1,11 @@
+Package: ls4pR
+Type: Package
+Title: A package for psychology studies
+Imports: psych, methods
+Version: 0.0.1
+Date: 2015-12-11
+Author: Losses Don
+Maintainer: Losses Don <losses.don@gmail.com>
+Description: This package WILL include most of the function you'll use during your university study.
+License: Unlimited
+LazyData: TRUE
